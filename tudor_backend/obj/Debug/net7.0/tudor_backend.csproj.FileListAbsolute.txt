@@ -1,0 +1,584 @@
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\obj\Debug\net7.0\tudor_backend.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\obj\Debug\net7.0\tudor_backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\obj\Debug\net7.0\tudor_backend.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\obj\Debug\net7.0\tudor_backend.AssemblyInfo.cs
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\obj\Debug\net7.0\tudor_backend.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\obj\Debug\net7.0\tudor_backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\obj\Debug\net7.0\tudor_backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\bin\Debug\net7.0\appsettings.json
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\bin\Debug\net7.0\tudor_backend.exe
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\bin\Debug\net7.0\tudor_backend.deps.json
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\bin\Debug\net7.0\tudor_backend.runtimeconfig.json
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\bin\Debug\net7.0\tudor_backend.dll
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\bin\Debug\net7.0\tudor_backend.pdb
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\bin\Debug\net7.0\Humanizer.dll
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\bin\Debug\net7.0\System.DirectoryServices.dll
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\bin\Debug\net7.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\bin\Debug\net7.0\System.DirectoryServices.Protocols.dll
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.DirectoryServices.dll
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\bin\Debug\net7.0\runtimes\linux\lib\net7.0\System.DirectoryServices.Protocols.dll
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\bin\Debug\net7.0\runtimes\osx\lib\net7.0\System.DirectoryServices.Protocols.dll
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.DirectoryServices.Protocols.dll
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\obj\Debug\net7.0\staticwebassets\msbuild.tudor_backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\obj\Debug\net7.0\staticwebassets\msbuild.build.tudor_backend.props
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.tudor_backend.props
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.tudor_backend.props
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\obj\Debug\net7.0\scopedcss\bundle\tudor_backend.styles.css
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\obj\Debug\net7.0\tudor_backend.csproj.CopyComplete
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\obj\Debug\net7.0\tudor_backend.dll
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\obj\Debug\net7.0\refint\tudor_backend.dll
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\obj\Debug\net7.0\tudor_backend.pdb
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\obj\Debug\net7.0\tudor_backend.genruntimeconfig.cache
+C:\Users\DELL\source\repos\tudor_backend\tudor_backend\obj\Debug\net7.0\ref\tudor_backend.dll
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.csproj.AssemblyReference.cache
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.GeneratedMSBuildEditorConfig.editorconfig
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.AssemblyInfoInputs.cache
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.AssemblyInfo.cs
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.csproj.CoreCompileInputs.cache
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.MvcApplicationPartsAssemblyInfo.cs
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.MvcApplicationPartsAssemblyInfo.cache
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.dll
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\obj\Debug\net7.0\refint\tudor_backend.dll
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.pdb
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\bin\Debug\net7.0\appsettings.Development.json
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\bin\Debug\net7.0\appsettings.json
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\bin\Debug\net7.0\tudor_backend.exe
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\bin\Debug\net7.0\tudor_backend.deps.json
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\bin\Debug\net7.0\tudor_backend.runtimeconfig.json
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\bin\Debug\net7.0\tudor_backend.dll
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\bin\Debug\net7.0\tudor_backend.pdb
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\bin\Debug\net7.0\Humanizer.dll
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\bin\Debug\net7.0\MySqlConnector.dll
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\bin\Debug\net7.0\System.CodeDom.dll
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\bin\Debug\net7.0\System.DirectoryServices.dll
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\bin\Debug\net7.0\System.DirectoryServices.AccountManagement.dll
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\bin\Debug\net7.0\System.DirectoryServices.Protocols.dll
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.DirectoryServices.dll
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.DirectoryServices.AccountManagement.dll
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\linux\lib\net7.0\System.DirectoryServices.Protocols.dll
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\osx\lib\net7.0\System.DirectoryServices.Protocols.dll
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.DirectoryServices.Protocols.dll
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\obj\Debug\net7.0\staticwebassets\msbuild.tudor_backend.Microsoft.AspNetCore.StaticWebAssets.props
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\obj\Debug\net7.0\staticwebassets\msbuild.build.tudor_backend.props
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.tudor_backend.props
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.tudor_backend.props
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\obj\Debug\net7.0\staticwebassets.pack.json
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\obj\Debug\net7.0\staticwebassets.build.json
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\obj\Debug\net7.0\staticwebassets.development.json
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\obj\Debug\net7.0\scopedcss\bundle\tudor_backend.styles.css
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.csproj.CopyComplete
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.genruntimeconfig.cache
+E:\OverLeap Software\Tudor Project\New folder\tudorapi\tudor_backend\obj\Debug\net7.0\ref\tudor_backend.dll
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\bin\Debug\net7.0\appsettings.json
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\bin\Debug\net7.0\tudor_backend.exe
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\bin\Debug\net7.0\tudor_backend.deps.json
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\bin\Debug\net7.0\tudor_backend.runtimeconfig.json
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\bin\Debug\net7.0\tudor_backend.dll
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\bin\Debug\net7.0\tudor_backend.pdb
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\bin\Debug\net7.0\Humanizer.dll
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\bin\Debug\net7.0\System.DirectoryServices.dll
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\bin\Debug\net7.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\bin\Debug\net7.0\System.DirectoryServices.Protocols.dll
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.DirectoryServices.dll
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\linux\lib\net7.0\System.DirectoryServices.Protocols.dll
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\osx\lib\net7.0\System.DirectoryServices.Protocols.dll
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.DirectoryServices.Protocols.dll
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.AssemblyInfo.cs
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\obj\Debug\net7.0\staticwebassets\msbuild.tudor_backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\obj\Debug\net7.0\staticwebassets\msbuild.build.tudor_backend.props
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.tudor_backend.props
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.tudor_backend.props
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\obj\Debug\net7.0\scopedcss\bundle\tudor_backend.styles.css
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.csproj.CopyComplete
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.dll
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\obj\Debug\net7.0\refint\tudor_backend.dll
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.pdb
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.genruntimeconfig.cache
+C:\Users\DELL\source\repos\audit\tudorapi\tudor_backend\obj\Debug\net7.0\ref\tudor_backend.dll
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\bin\Debug\net7.0\appsettings.json
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\bin\Debug\net7.0\tudor_backend.exe
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\bin\Debug\net7.0\tudor_backend.deps.json
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\bin\Debug\net7.0\tudor_backend.runtimeconfig.json
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\bin\Debug\net7.0\tudor_backend.dll
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\bin\Debug\net7.0\tudor_backend.pdb
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\bin\Debug\net7.0\Humanizer.dll
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\bin\Debug\net7.0\System.DirectoryServices.dll
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\bin\Debug\net7.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\bin\Debug\net7.0\System.DirectoryServices.Protocols.dll
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.DirectoryServices.dll
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\linux\lib\net7.0\System.DirectoryServices.Protocols.dll
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\osx\lib\net7.0\System.DirectoryServices.Protocols.dll
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.DirectoryServices.Protocols.dll
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.AssemblyInfo.cs
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\obj\Debug\net7.0\staticwebassets\msbuild.tudor_backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\obj\Debug\net7.0\staticwebassets\msbuild.build.tudor_backend.props
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.tudor_backend.props
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.tudor_backend.props
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\obj\Debug\net7.0\scopedcss\bundle\tudor_backend.styles.css
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.csproj.CopyComplete
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.dll
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\obj\Debug\net7.0\refint\tudor_backend.dll
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.pdb
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.genruntimeconfig.cache
+C:\Users\DELL\source\repos\audit - Copy\tudorapi\tudor_backend\obj\Debug\net7.0\ref\tudor_backend.dll
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\bin\Debug\net7.0\appsettings.Development.json
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\bin\Debug\net7.0\appsettings.json
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\bin\Debug\net7.0\tudor_backend.exe
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\bin\Debug\net7.0\tudor_backend.deps.json
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\bin\Debug\net7.0\tudor_backend.runtimeconfig.json
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\bin\Debug\net7.0\tudor_backend.dll
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\bin\Debug\net7.0\tudor_backend.pdb
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\bin\Debug\net7.0\Humanizer.dll
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\bin\Debug\net7.0\MySqlConnector.dll
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\bin\Debug\net7.0\System.CodeDom.dll
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\bin\Debug\net7.0\System.DirectoryServices.dll
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\bin\Debug\net7.0\System.DirectoryServices.AccountManagement.dll
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\bin\Debug\net7.0\System.DirectoryServices.Protocols.dll
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.DirectoryServices.dll
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.DirectoryServices.AccountManagement.dll
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\linux\lib\net7.0\System.DirectoryServices.Protocols.dll
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\osx\lib\net7.0\System.DirectoryServices.Protocols.dll
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.DirectoryServices.Protocols.dll
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.csproj.AssemblyReference.cache
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.GeneratedMSBuildEditorConfig.editorconfig
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.AssemblyInfoInputs.cache
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.AssemblyInfo.cs
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.csproj.CoreCompileInputs.cache
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.MvcApplicationPartsAssemblyInfo.cs
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.MvcApplicationPartsAssemblyInfo.cache
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\obj\Debug\net7.0\staticwebassets\msbuild.tudor_backend.Microsoft.AspNetCore.StaticWebAssets.props
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\obj\Debug\net7.0\staticwebassets\msbuild.build.tudor_backend.props
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.tudor_backend.props
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.tudor_backend.props
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\obj\Debug\net7.0\staticwebassets.pack.json
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\obj\Debug\net7.0\staticwebassets.build.json
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\obj\Debug\net7.0\staticwebassets.development.json
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\obj\Debug\net7.0\scopedcss\bundle\tudor_backend.styles.css
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.csproj.CopyComplete
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.dll
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\obj\Debug\net7.0\refint\tudor_backend.dll
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.pdb
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.genruntimeconfig.cache
+E:\OverLeap Software\Tudor Project\Backend\tudorapi\tudor_backend\obj\Debug\net7.0\ref\tudor_backend.dll
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\bin\Debug\net7.0\appsettings.json
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\bin\Debug\net7.0\tudor_backend.exe
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\bin\Debug\net7.0\tudor_backend.deps.json
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\bin\Debug\net7.0\tudor_backend.runtimeconfig.json
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\bin\Debug\net7.0\tudor_backend.dll
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\bin\Debug\net7.0\tudor_backend.pdb
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\bin\Debug\net7.0\Humanizer.dll
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\bin\Debug\net7.0\System.DirectoryServices.dll
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\bin\Debug\net7.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\bin\Debug\net7.0\System.DirectoryServices.Protocols.dll
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.DirectoryServices.dll
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\linux\lib\net7.0\System.DirectoryServices.Protocols.dll
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\osx\lib\net7.0\System.DirectoryServices.Protocols.dll
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.DirectoryServices.Protocols.dll
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\obj\Debug\net7.0\staticwebassets\msbuild.tudor_backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\obj\Debug\net7.0\staticwebassets\msbuild.build.tudor_backend.props
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.tudor_backend.props
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.tudor_backend.props
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\obj\Debug\net7.0\scopedcss\bundle\tudor_backend.styles.css
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.csproj.CopyComplete
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.dll
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\obj\Debug\net7.0\refint\tudor_backend.dll
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.pdb
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Auditclone\tudorapi\tudor_backend\obj\Debug\net7.0\ref\tudor_backend.dll
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\bin\Debug\net7.0\appsettings.json
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\bin\Debug\net7.0\tudor_backend.exe
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\bin\Debug\net7.0\tudor_backend.deps.json
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\bin\Debug\net7.0\tudor_backend.runtimeconfig.json
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\bin\Debug\net7.0\tudor_backend.dll
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\bin\Debug\net7.0\tudor_backend.pdb
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\bin\Debug\net7.0\Humanizer.dll
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\bin\Debug\net7.0\System.DirectoryServices.dll
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\bin\Debug\net7.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\bin\Debug\net7.0\System.DirectoryServices.Protocols.dll
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.DirectoryServices.dll
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\linux\lib\net7.0\System.DirectoryServices.Protocols.dll
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\osx\lib\net7.0\System.DirectoryServices.Protocols.dll
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.DirectoryServices.Protocols.dll
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\obj\Debug\net7.0\staticwebassets\msbuild.tudor_backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\obj\Debug\net7.0\staticwebassets\msbuild.build.tudor_backend.props
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.tudor_backend.props
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.tudor_backend.props
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\obj\Debug\net7.0\scopedcss\bundle\tudor_backend.styles.css
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.csproj.CopyComplete
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.dll
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\obj\Debug\net7.0\refint\tudor_backend.dll
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.pdb
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Auditackend_Final\tudorapi\tudor_backend\obj\Debug\net7.0\ref\tudor_backend.dll
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\bin\Debug\net7.0\appsettings.Development.json
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\bin\Debug\net7.0\appsettings.json
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\bin\Debug\net7.0\tudor_backend.exe
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\bin\Debug\net7.0\tudor_backend.deps.json
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\bin\Debug\net7.0\tudor_backend.runtimeconfig.json
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\bin\Debug\net7.0\tudor_backend.dll
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\bin\Debug\net7.0\tudor_backend.pdb
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\bin\Debug\net7.0\Humanizer.dll
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\bin\Debug\net7.0\MySqlConnector.dll
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\bin\Debug\net7.0\System.CodeDom.dll
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\bin\Debug\net7.0\System.DirectoryServices.dll
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\bin\Debug\net7.0\System.DirectoryServices.AccountManagement.dll
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\bin\Debug\net7.0\System.DirectoryServices.Protocols.dll
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.DirectoryServices.dll
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.DirectoryServices.AccountManagement.dll
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\linux\lib\net7.0\System.DirectoryServices.Protocols.dll
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\osx\lib\net7.0\System.DirectoryServices.Protocols.dll
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.DirectoryServices.Protocols.dll
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.csproj.AssemblyReference.cache
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.GeneratedMSBuildEditorConfig.editorconfig
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.AssemblyInfoInputs.cache
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.AssemblyInfo.cs
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.csproj.CoreCompileInputs.cache
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.MvcApplicationPartsAssemblyInfo.cs
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.MvcApplicationPartsAssemblyInfo.cache
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\obj\Debug\net7.0\staticwebassets\msbuild.tudor_backend.Microsoft.AspNetCore.StaticWebAssets.props
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\obj\Debug\net7.0\staticwebassets\msbuild.build.tudor_backend.props
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.tudor_backend.props
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.tudor_backend.props
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\obj\Debug\net7.0\staticwebassets.pack.json
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\obj\Debug\net7.0\staticwebassets.build.json
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\obj\Debug\net7.0\staticwebassets.development.json
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\obj\Debug\net7.0\scopedcss\bundle\tudor_backend.styles.css
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.csproj.CopyComplete
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.dll
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\obj\Debug\net7.0\refint\tudor_backend.dll
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.pdb
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\obj\Debug\net7.0\tudor_backend.genruntimeconfig.cache
+E:\OverLeap Software\Tudor Project\Backend\Master branch\tudorapi\tudor_backend\obj\Debug\net7.0\ref\tudor_backend.dll
